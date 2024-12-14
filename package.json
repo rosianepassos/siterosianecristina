@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.3"
+  },
+  "name": "site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "sass": "^1.79.4",
+    "vite": "^5.4.8"
+  },
+  "scripts": {
+    "start": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rosiane Cristina Souza dos Passos",
+  "license": "ISC",
+  "description": "Site profissional com portifólio"
+}
